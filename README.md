@@ -1,1 +1,1 @@
-# functions.js
+basics of JS
